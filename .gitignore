@@ -1,0 +1,9 @@
+*.iml
+.idea
+lib
+data
+log
+logs
+node
+node_modules
+/5.2.2/logstash-tutorial-dataset
